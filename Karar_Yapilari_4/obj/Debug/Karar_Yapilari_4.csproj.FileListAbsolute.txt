@@ -1,0 +1,21 @@
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Karar_Yapilari_4\Karar_Yapilari_4\bin\Debug\Karar_Yapilari_4.exe.config
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Karar_Yapilari_4\Karar_Yapilari_4\bin\Debug\Karar_Yapilari_4.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Karar_Yapilari_4\Karar_Yapilari_4\bin\Debug\Karar_Yapilari_4.pdb
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Karar_Yapilari_4\Karar_Yapilari_4\obj\Debug\Karar_Yapilari_4.csprojResolveAssemblyReference.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Karar_Yapilari_4\Karar_Yapilari_4\obj\Debug\Karar_Yapilari_4.csproj.CoreCompileInputs.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Karar_Yapilari_4\Karar_Yapilari_4\obj\Debug\Karar_Yapilari_4.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Karar_Yapilari_4\Karar_Yapilari_4\obj\Debug\Karar_Yapilari_4.pdb
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Karar_Yapilari_4\Karar_Yapilari_4\bin\Debug\Karar_Yapilari_4.exe.config
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Karar_Yapilari_4\Karar_Yapilari_4\bin\Debug\Karar_Yapilari_4.exe
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Karar_Yapilari_4\Karar_Yapilari_4\bin\Debug\Karar_Yapilari_4.pdb
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Karar_Yapilari_4\Karar_Yapilari_4\obj\Debug\Karar_Yapilari_4.csprojAssemblyReference.cache
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Karar_Yapilari_4\Karar_Yapilari_4\obj\Debug\Karar_Yapilari_4.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Karar_Yapilari_4\Karar_Yapilari_4\obj\Debug\Karar_Yapilari_4.exe
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Karar_Yapilari_4\Karar_Yapilari_4\obj\Debug\Karar_Yapilari_4.pdb
+C:\Users\casper\Desktop\Files\Applications\C#\Console Applications\Karar_Yapilari_4\Karar_Yapilari_4\bin\Debug\Karar_Yapilari_4.exe.config
+C:\Users\casper\Desktop\Files\Applications\C#\Console Applications\Karar_Yapilari_4\Karar_Yapilari_4\bin\Debug\Karar_Yapilari_4.exe
+C:\Users\casper\Desktop\Files\Applications\C#\Console Applications\Karar_Yapilari_4\Karar_Yapilari_4\bin\Debug\Karar_Yapilari_4.pdb
+C:\Users\casper\Desktop\Files\Applications\C#\Console Applications\Karar_Yapilari_4\Karar_Yapilari_4\obj\Debug\Karar_Yapilari_4.csprojAssemblyReference.cache
+C:\Users\casper\Desktop\Files\Applications\C#\Console Applications\Karar_Yapilari_4\Karar_Yapilari_4\obj\Debug\Karar_Yapilari_4.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Files\Applications\C#\Console Applications\Karar_Yapilari_4\Karar_Yapilari_4\obj\Debug\Karar_Yapilari_4.exe
+C:\Users\casper\Desktop\Files\Applications\C#\Console Applications\Karar_Yapilari_4\Karar_Yapilari_4\obj\Debug\Karar_Yapilari_4.pdb
